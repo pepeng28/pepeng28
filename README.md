@@ -2,18 +2,10 @@ Bayangin lu belajar banyak hal yg dimana kamu menjadi salah satu orang yg paling
  
 <!--https://wakatime.com/@pepeng28 -->
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pepeng28&theme=radical)
-
-
-
-**Languages:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![: js nya dikit](https://img.shields.io/badge/:js_nya_dikit-F7DF1E?style=flat)
-<!--![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)-->
+<!--![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pepeng28&theme=radical) -->
+![HTML5](https://img.shields.io/badge/HTML5-sudah_selesai-4B4B4B?style=flat&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-sudah_selesai-4B4B4B?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-dikit-4B4B4B?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-tengah_belajar-4B4B4B?style=flat&logo=php&logoColor=white&labelColor=777BB4)
 
 profil foto waktu smp 😆
