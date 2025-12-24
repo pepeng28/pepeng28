@@ -8,4 +8,4 @@ Bayangin lu belajar banyak hal yg dimana kamu menjadi salah satu orang yg paling
 ![JavaScript](https://img.shields.io/badge/JavaScript-dikit-4B4B4B?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-tengah_belajar-4B4B4B?style=flat&logo=php&logoColor=white&labelColor=777BB4)
 
-profil foto waktu smp 😆
+belajar menjadi lebih baik dari kemarin 😆🔥
