@@ -7,5 +7,6 @@ Bayangin lu belajar banyak hal yg dimana kamu menjadi salah satu orang yg paling
 ![CSS3](https://img.shields.io/badge/CSS3-sudah_selesai-4B4B4B?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-dikit-4B4B4B?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-tengah_belajar-4B4B4B?style=flat&logo=php&logoColor=white&labelColor=777BB4)
+[![wakatime](https://wakatime.com/badge/user/f83731ea-e2fb-4c7a-b491-76f11343744a.svg?labelColor=2ecc71&color=555555)](https://wakatime.com/@f83731ea-e2fb-4c7a-b491-76f11343744a)
 
 belajar menjadi lebih baik dari kemarin 😆🔥
