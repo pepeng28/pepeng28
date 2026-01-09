@@ -1,9 +1,8 @@
 Bayangin lu belajar banyak hal yg dimana kamu menjadi salah satu orang yg paling berpengaruh di dunia 🌏
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/2920/2920244.png" width="120" alt="icon">
+ <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
- 
 <!--https://wakatime.com/@pepeng28 -->
 
 <!--![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pepeng28&theme=radical) -->
