@@ -1,7 +1,7 @@
 Bayangin lu belajar banyak hal yg dimana kamu menjadi salah satu orang yg paling berpengaruh di dunia 🌏
 
  <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120">
 </p>
 <!--https://wakatime.com/@pepeng28 -->
 
